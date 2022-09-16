@@ -1,2 +1,0 @@
-docker pull qinchaowhut/xv6-riscv:v1.5
-docker run -it qinchaowhut/xv6-riscv:v1.5
