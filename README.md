@@ -10,5 +10,6 @@
 
 ### 3 实现的labs
 - labs see https://github.com/Qinch/xv6-labs-2022
-- gdb调试see https://qinch.github.io/2022/09/05/xv6gdb/
+- gdb调试see
+  - https://zhuanlan.zhihu.com/p/565701556
 
